@@ -140,7 +140,7 @@ class DoublyLinearList {
         }
     }
 
-    public int size() {
+    public int size() {               // this function return the number of nodes
         return count;
     }
 
